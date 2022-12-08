@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5qFZFXom7ePT8xLnili58evuQZGUPMkOIqbld7jE3UUdSquaqKJoexhp2o+nDbI3CM/ruI/UrGTxmi6v5QIOog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\Desktop\\apagar\\FarmaBru\\Metadata\\Metadata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
